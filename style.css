@@ -216,10 +216,35 @@ p3 {
 	height:100px;
 	width:500px;
 }
-.featuredProjectsContainer {
-	background-color: red;
+
+.featuredProjectsContainer1 {
+	background-color: white;
+	display:flex;
 	height:100%;
 	width:100%;
+	text-align:center;
+}
+
+.featuredProjects {
+    display:inline-block;
+    background-color:blue;
+    width:700px;
+    height:500px;
+}
+
+.featuredProjects.project1 {
+	background-color:yellow;
+	background-image:url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/projects/nitb-app-2.jpg");
+}
+
+.featuredProjects.project2 {
+	background-color:green;
+	background-image:url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/projects/lisson-gallery.jpg");
+}
+
+.featuredProjects.project3 {
+	background-color:purple;
+	background-image:url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/projects/squarevid-punchbag.jpg");
 }
 
 
