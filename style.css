@@ -193,6 +193,35 @@ p3 {
 	font-weight:bold;
 }
 
+.learnAboutProjectsBuffer {
+	background-color:white;
+	height:200px;
+	width:100%;
+}
+
+#learnAboutProjectsContainer {
+	background-color:#339999;
+	height:300px;
+	width:100%;
+}
+
+#learnAboutProjectsTitle {
+	position:relative;
+	background-color:#339999;
+	color:white;
+	font-weight:bold;
+	font-size:36px;
+	top:150px;
+	left:700px;
+	height:100px;
+	width:500px;
+}
+.featuredProjectsContainer {
+	background-color: red;
+	height:100%;
+	width:100%;
+}
+
 
 
 
