@@ -86,9 +86,38 @@ body, html {
     text-align: center;
 }
 
+#productStrategy {
+	text-align:left;
+}
+
+#webAppDevelopment {
+	text-align: left;
+}
+
+#iOSMacDevelopment {
+	text-align: left;
+}
+
+#webDesign {
+	text-align: left;
+}
+
 .expertise {
 	display:inline-block;
 	text-align:center;
+	width:400px;
+}
+
+.projects {
+	background-color: green;
+    width:100%;
+    height:50%;
+    text-align: center;
+}
+
+.eachProject {
+	display:inline-block;
+	text-align:left;
 	width:400px;
 }
 
