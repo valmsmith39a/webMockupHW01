@@ -239,6 +239,11 @@ p3 {
 	background-repeat:no-repeat;
 }
 
+.featuredProjects.project1:hover {
+	visibility:visible;
+	
+}
+
 .featuredProjects.project2 {
 	background-image:url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/projects/digital-circle-monitor.jpg");
 	background-size:700px 500px;
