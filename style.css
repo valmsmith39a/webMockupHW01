@@ -1,0 +1,98 @@
+body, html {
+	height:100%;
+	background-color: white;
+}
+
+.backgroundImage {
+    width:100%;
+    height:100%;
+	background-image:url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/header-brogramming-niall-phil.jpg");
+    background-size:cover;
+}
+
+.videoDiv {
+	background-color:white;
+	width:100%;
+	height:100%;
+	text-align: center;
+}
+
+#vimeo {
+    position:relative;	
+	width:80%;
+	height:80%;
+	padding-top:8%;
+	padding-left:10%;
+	padding-right:10%;
+	
+}
+
+.rumbleWayDiv {
+	background-color: green;
+    width:100%;
+    height:50%;
+    text-align: center;
+}
+
+.mottoDiv {
+	position:relative;
+	background-color: white;
+	width:100%;
+	height:20%;
+	font-size:75px;
+	font-style: black;
+}
+
+#cultureIcon {
+    width:100px;
+    height:100px;
+}
+
+#processIcon {
+    width:100px;
+    height:100px;
+}
+
+#strategyIcon {
+	width:100px;
+	height:100px;
+}
+
+#webAppIcon {
+	width:100px;
+	height:100px;
+}
+
+#iOSIcon {
+	width:100px;
+	height:100px;
+}
+
+#responsiveIcon {
+	width:100px;
+	height:100px;
+}
+
+.features {
+	display:inline-block;
+	text-align:center;
+	width:400px;
+}
+
+.services {
+	background-color: green;
+    width:100%;
+    height:50%;
+    text-align: center;
+}
+
+.expertise {
+	display:inline-block;
+	text-align:center;
+	width:400px;
+}
+
+
+
+
+
