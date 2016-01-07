@@ -232,7 +232,6 @@ p3 {
 }
 
 .featuredProjects.project1 {
-	background-color:yellow;
 	background-image:url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/projects/project-cover-nuu.jpg");
 	width:700px;
 	height:500px;
@@ -241,36 +240,30 @@ p3 {
 }
 
 .featuredProjects.project2 {
-	background-color:green;
 	background-image:url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/projects/digital-circle-monitor.jpg");
 	background-size:700px 500px;
 	background-repeat:no-repeat;
 }
 
 .featuredProjects.project3 {
-	background-color:purple;
 	background-image:url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/projects/yolla-scan.jpg");
 	background-size:700px 500px;
 	background-repeat:no-repeat;
 }
 
-
 .featuredProjects.project4 {
-	background-color:yellow;
 	background-image:url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/projects/nitb-app-2.jpg");
 	background-size:700px 500px;
 	background-repeat:no-repeat;
 }
 
 .featuredProjects.project5 {
-	background-color:green;
 	background-image:url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/projects/lisson-gallery.jpg");
 	background-size:700px 500px;
 	background-repeat:no-repeat;
 }
 
 .featuredProjects.project6 {
-	background-color:purple;
 	background-image:url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/projects/squarevid-punchbag.jpg");
 	background-size:700px 500px;
 	background-repeat:no-repeat;
